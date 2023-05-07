@@ -6,9 +6,9 @@ You can check out my devpost too, for some more of my hackathon projects: https:
 
 - 🌱 I’m currently learning more about project design and development 
 - 🔭 I’m currently working on my website
-- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/aava-sapkota-584b3b175/) | [Email](a4sapkot@uwaterloo.ca)
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/aava-sapkota/) | [Email](a4sapkot@uwaterloo.ca)
 
-If you have time, check out my [Resume](https://drive.google.com/file/d/1s7BxiONFzbpV4tO1tHc9Ydfnt6du7JkR/view?usp=sharing)! 
+If you have time, check out my [Resume](https://drive.google.com/file/d/1RaDPWgm5vH2so2mYUdozO69spDsx3ebY/view?usp=sharing)! 
 
 <!--
 
