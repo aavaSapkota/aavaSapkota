@@ -4,11 +4,12 @@ Welcome to my github! My name is Aava (she/her), and I am a Systems Design Enigi
 
 You can check out my devpost too, for some more of my hackathon projects: https://devpost.com/aavaSapkota. 
 
-- 🌱 I’m currently learning more about project design and development 
+- 🌱 I’m currently learning more about project design and development
 - 🔭 I’m currently working on my website
+- 🏫 At school I'm involved in: [Socratica](https://www.socratica.info/), TagLab working with Dr.Cosmin Munteanu
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/aava-sapkota/) | [Email](a4sapkot@uwaterloo.ca)
 
-If you have time, check out my [Resume](https://drive.google.com/file/d/1RaDPWgm5vH2so2mYUdozO69spDsx3ebY/view?usp=sharing)! 
+If you have time, check out my [Resume](https://drive.google.com/file/d/1Kjoz_hJv-OUsa8SGfn2a32GaBqzVhqiQ/view?usp=sharing)! 
 
 <!--
 
