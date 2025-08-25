@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m **Aava Sapkota** (she/her), a **Systems Design Engineering student @ University of Waterloo** (3.7 GPA).  
+I’m **Aava Sapkota** (she/her), a **Systems Design Engineering student @ University of Waterloo**.  
 I love building tools that **empower real people**, from **accessible VR storytelling** platforms for older adults, to **SaaS features** used by thousands of merchants, to **iOS apps** in healthcare and smart homes.
 
 ---
