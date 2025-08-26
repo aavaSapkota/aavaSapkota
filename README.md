@@ -15,7 +15,8 @@ I love building tools that **empower real people**, from **accessible VR storyte
 
 🌱 **Currently Learning**
 - Systems design for **scalable, creator-friendly platforms**  
-- Human-AI collaboration in **digital storytelling**  
+- Human-AI collaboration in **digital storytelling**
+- Logistical roadblocks in Healthcare + improving patient experiences
 
 
 📫 **Let’s Connect**
