@@ -6,10 +6,10 @@ I love building tools that **empower real people**, from **accessible VR storyte
 ---
 
 🔭 **Experience**
-- **Zoomifi**: SWE Intern (2025) · Architected React SaaS features for Clover POS, enabling 2,000+ merchants to design interactive pages with scalable DI + state graphs.  
+- **Zoomifi**: SWE Intern (2025) · Architected React SaaS features for Clover POS, enabling merchants to design interactive pages with scalable DI + state graphs.  
 - **TAGLab**: Student Researcher (2024–) · Co-authored CHI 2025 Interactivity paper (*Time Travel Tours*), building Unity + React + AI pipelines that cut VR scene setup by 70–90%.  
-- **Intellijoint Surgical**: iOS SWE Intern (2023) · Developed surgical navigation MVP with SwiftUI + OOP, boosting implant placement accuracy by 12%.  
-- **ecobee**: iOS SWE Intern (2023) · Delivered Smart Security features to 776K+ users with MVVM + SwiftUI/UIKit.
+- **Intellijoint Surgical**: iOS SWE Intern (2023) · Developed surgical navigation MVP with SwiftUI, and built upon legacy Objective C with more modern SwiftUI features. 
+- **ecobee**: iOS SWE Intern (2023) · Implemented MVVM architecture in mobile Smart Security application with SwiftUI/UIKit.
   
 ---
 
